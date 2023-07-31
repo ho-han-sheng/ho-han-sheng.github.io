@@ -1,0 +1,18 @@
+# Theme metadata
+name = "my_theme"
+
+[dark]
+# Primary
+  primary = "#F3B26D"
+  
+  menu_primary = "#111111"
+  menu_text_active = "#F3B26D"
+  
+  background = "#1E1E1E"
+  
+  # Home sections
+  home_section_odd = "#1E1E1E"
+  home_section_even = "#1E1E1E"
+
+  link = "#F3B26D"
+  link_hover = "#377DE8"
