@@ -79,7 +79,7 @@ I had the opportunity to support ongoing research projects in [Dr. Helen Zhou's 
 - Formalised self-taught programming skills in R and Python
 - Reinforced my desires to pursue academic research.
 
-Some steps I have (or will be taking) to work towards my goal of modelling psychopathology as a [complex, dynamical system (Olthof et al., 2023)](https://doi.org/10.1037/abn0000740) include:
+Some steps I have (or will be taking) to work towards my goal of modelling psychopathology from a [complex, dynamical systems (Olthof et al., 2023)](https://doi.org/10.1037/abn0000740) perspective include:
 
 - Getting the necessary mathematical foundation (e.g., Calculus 1-3, Multivariable Calculus, Linear Algebra, Stochastic Processes),
 - Seeking internships in research labs
