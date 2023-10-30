@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 
+role: Research Assistant & Psychology Undergraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:

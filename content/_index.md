@@ -23,6 +23,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Assistant
+          company: School of Humanities and Behavioural Sciences, Singapore University of Social Sciences
+          company_url: 'https://www.suss.edu.sg/about-suss/schools/shbs'
+          company_logo: 
+          location: 
+          date_start: '2023-10-23'
+          date_end: 
+          description:
         - title: Research Intern
           company: 'Multimodal Neuroimaging in Neuropsychiatric Disorders Laboratory, Center for Sleep and Cognition, Yong Loo Lin School of Medicine, National University of Singapore'
           company_url: 'https://neuroimaginglab.org'
