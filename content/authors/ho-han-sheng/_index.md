@@ -34,7 +34,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Bachelor of Science in Psychology
+    - course: Bachelor of Science (Hons.) in Psychology
       institution: Singapore University of Social Sciences
       year: 2025
 
@@ -85,4 +85,4 @@ Some steps I have (or will be taking) to work towards my goal of modelling psych
 - Seeking internships in research labs
 - TA-ing (SUSS calls us peer mentors) statistics modules, MTH219 and MTH220.
 
-Outside of academics, I am also the incoming General Secretary for SUSS' student psychology society, [PsyConnect](https://psyconnect.github.io), striving to enhance psychology (and statistics) education for fellow undergraduates. In my free time, I enjoy gaming, listening to K-Hip-Hop, and drinking tea (my favourites are pu-er, jasmine and matcha).
+Outside of academics, I am an EXCO member of SUSS’ student psychology society, PsyConnect, striving to enhance psychology (and statistics) education for fellow undergraduates. In my free time, I enjoy gaming, listening to K-Hip-Hop, and drinking tea (my favourites are pu-er, jasmine and matcha).
